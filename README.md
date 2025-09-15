@@ -46,11 +46,11 @@ Example of Interaction
     
     What number am I thinking of? 62
     My secret number is greater
-
-"The code in this repository is based on lessons from Federico Garay's course."
     
     What number am I thinking of? 68
     My secret number is greater
     
     What number am I thinking of? 70
     Congratulations Alex, you won in 5 attempts
+
+"The code in this repository is based on lessons from Federico Garay's course."
